@@ -6816,11 +6816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44793\\source\\repos\\AmazonProject\\AmazonProject\\AmazonProject.csproj",
+      "projectUniqueName": "C:\\Users\\44793\\OneDrive\\Documents\\GitHub\\AmazonProject\\AmazonProject\\AmazonProject.csproj",
       "projectName": "AmazonProject",
-      "projectPath": "C:\\Users\\44793\\source\\repos\\AmazonProject\\AmazonProject\\AmazonProject.csproj",
+      "projectPath": "C:\\Users\\44793\\OneDrive\\Documents\\GitHub\\AmazonProject\\AmazonProject\\AmazonProject.csproj",
       "packagesPath": "C:\\Users\\44793\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44793\\source\\repos\\AmazonProject\\AmazonProject\\obj\\",
+      "outputPath": "C:\\Users\\44793\\OneDrive\\Documents\\GitHub\\AmazonProject\\AmazonProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44793\\AppData\\Roaming\\NuGet\\NuGet.Config",
